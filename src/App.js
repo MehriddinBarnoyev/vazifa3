@@ -90,7 +90,7 @@ function App() {
              <li><a class="text-muted" href="#">Team</a></li>
              <li><a class="text-muted" href="#">Locations</a></li>
              <li><a class="text-muted" href="#">Privacy</a></li>
-             <li><a class="text-muted" href="#">Terms</a></li>
+             <li><a class="text-muted" href="#">Terms terms</a></li>
            </ul>
          </div>
        </div>
